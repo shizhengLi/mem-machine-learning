@@ -80,7 +80,7 @@ MemMachine 是一个为先进AI智能体设计的开源记忆层，使AI驱动�
 
 ### AI/ML集成
 - **OpenAI API**：LLM集成
-- ** sentence-transformers**：文本嵌入
+- **sentence-transformers**：文本嵌入
 - **scikit-learn**：机器学习工具
 
 ### Web框架
